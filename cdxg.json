@@ -1,0 +1,16 @@
+﻿{
+    "urls": [
+		{
+            "name": "采集源",
+            "url": "https://gh-proxy.org/raw.githubusercontent.com/firewolf333333/tvbox-tianya/main/tianya_config.json"
+        },
+	    {
+            "name": "采集源1",
+            "url": "https://gh-proxy.org/raw.githubusercontent.com/maccms2023/app/main/tv.txt"
+        },
+        {
+            "name": "采集源2",
+            "url": "https://gh-proxy.org/raw.githubusercontent.com/suki827/tvbox-config/main/config.json"
+        }
+	 ]
+ }
